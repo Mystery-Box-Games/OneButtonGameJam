@@ -40,6 +40,7 @@
     {"id":{"name":"obj_worker","path":"objects/obj_worker/obj_worker.yy",},},
     {"id":{"name":"r_game","path":"rooms/r_game/r_game.yy",},},
     {"id":{"name":"r_menu","path":"rooms/r_menu/r_menu.yy",},},
+    {"id":{"name":"s_paperBall","path":"sprites/s_paperBall/s_paperBall.yy",},},
     {"id":{"name":"s_targetFilled","path":"sprites/s_targetFilled/s_targetFilled.yy",},},
     {"id":{"name":"s_targetHollow","path":"sprites/s_targetHollow/s_targetHollow.yy",},},
     {"id":{"name":"s_worker","path":"sprites/s_worker/s_worker.yy",},},
