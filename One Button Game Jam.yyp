@@ -39,6 +39,7 @@
     {"id":{"name":"obj_worker","path":"objects/obj_worker/obj_worker.yy",},},
     {"id":{"name":"r_game","path":"rooms/r_game/r_game.yy",},},
     {"id":{"name":"r_menu","path":"rooms/r_menu/r_menu.yy",},},
+    {"id":{"name":"s_worker","path":"sprites/s_worker/s_worker.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",

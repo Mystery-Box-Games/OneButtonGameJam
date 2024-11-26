@@ -27,7 +27,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"s_worker",
+    "path":"sprites/s_worker/s_worker.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }
