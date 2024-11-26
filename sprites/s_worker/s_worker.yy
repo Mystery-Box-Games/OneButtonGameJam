@@ -2,9 +2,9 @@
   "$GMSprite":"",
   "%Name":"s_worker",
   "bboxMode":0,
-  "bbox_bottom":31,
-  "bbox_left":6,
-  "bbox_right":25,
+  "bbox_bottom":127,
+  "bbox_left":24,
+  "bbox_right":103,
   "bbox_top":0,
   "collisionKind":1,
   "collisionTolerance":0,
@@ -16,7 +16,7 @@
   ],
   "gridX":0,
   "gridY":0,
-  "height":32,
+  "height":128,
   "HTile":false,
   "layers":[
     {"$GMImageLayer":"","%Name":"351d6020-7d9d-4164-be9f-717e48566a49","blendMode":0,"displayName":"default","isLocked":false,"name":"351d6020-7d9d-4164-be9f-717e48566a49","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
@@ -86,5 +86,5 @@
   },
   "type":0,
   "VTile":false,
-  "width":32,
+  "width":128,
 }
