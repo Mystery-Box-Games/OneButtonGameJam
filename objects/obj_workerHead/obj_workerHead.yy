@@ -1,17 +1,18 @@
 {
   "$GMObject":"",
-  "%Name":"obj_mood",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"obj_workerHead",
+  "eventList":[],
   "managed":true,
-  "name":"obj_mood",
+  "name":"obj_workerHead",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
     "path":"folders/Objects.yy",
   },
-  "parentObjectId":null,
+  "parentObjectId":{
+    "name":"obj_worker",
+    "path":"objects/obj_worker/obj_worker.yy",
+  },
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
@@ -25,15 +26,13 @@
   "physicsShape":1,
   "physicsShapePoints":[],
   "physicsStartAwake":true,
-  "properties":[
-    {"$GMObjectProperty":"v1","%Name":"annoyance","filters":[],"listItems":[],"multiselect":false,"name":"annoyance","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"75","varType":0,},
-  ],
+  "properties":[],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"s_mood",
-    "path":"sprites/s_mood/s_mood.yy",
+    "name":"s_workerHead",
+    "path":"sprites/s_workerHead/s_workerHead.yy",
   },
   "spriteMaskId":null,
   "visible":true,
