@@ -3,7 +3,7 @@ state++;
 
 if (state == 2) {
 	// throw ball
-	// determine where ball hits the worker, increase annoyance based on location
+	instance_create_layer(obj_crosshair.x, obj_crosshair.y, "Projectiles", obj_projectile);
 	
 	// reset pos
 	obj_crosshair.y = obj_crosshair.ystart;
