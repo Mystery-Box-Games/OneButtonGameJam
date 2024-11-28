@@ -10,7 +10,7 @@ if (!collided && (xstart < other.bbox_right && xstart > other.bbox_left) && (yst
 	// increase annoyance
 		for (var i = 0; i < instance_number(obj_mood); i++) {
 			if (instance_find(obj_mood, i).index == other.index) {
-				instance_find(obj_mood, i).annoyance += 10;
+				instance_find(obj_mood, i).annoyance += 15;
 			}
 	}
 }
