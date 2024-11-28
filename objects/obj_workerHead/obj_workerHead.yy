@@ -10,8 +10,8 @@
     "path":"folders/Objects.yy",
   },
   "parentObjectId":{
-    "name":"obj_worker",
-    "path":"objects/obj_worker/obj_worker.yy",
+    "name":"obj_mood",
+    "path":"objects/obj_mood/obj_mood.yy",
   },
   "persistent":false,
   "physicsAngularDamping":0.1,

@@ -6,6 +6,9 @@ if (!collided && (xstart < other.bbox_right && xstart > other.bbox_left) && (yst
 	show_debug_message("body shot");
 	collided = true;
 	
-	other.annoyance += 25;
-	show_debug_message(other.annoyance);
+	for (var i = 0; i < instance_number(obj_mood); i++) {
+			if (instance_find(obj_mood, i).index == other.index) {
+				instance_find(obj_mood, i).annoyance += 5;
+			}
+	}
 }
