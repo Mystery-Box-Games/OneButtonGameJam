@@ -51,6 +51,7 @@
     {"id":{"name":"s_targetHollow","path":"sprites/s_targetHollow/s_targetHollow.yy",},},
     {"id":{"name":"s_worker","path":"sprites/s_worker/s_worker.yy",},},
     {"id":{"name":"s_workerHead","path":"sprites/s_workerHead/s_workerHead.yy",},},
+    {"id":{"name":"Sprite8","path":"sprites/Sprite8/Sprite8.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
