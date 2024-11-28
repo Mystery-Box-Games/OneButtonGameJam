@@ -34,6 +34,7 @@
   },
   "name":"One Button Game Jam",
   "resources":[
+    {"id":{"name":"obj_clock","path":"objects/obj_clock/obj_clock.yy",},},
     {"id":{"name":"obj_crosshair","path":"objects/obj_crosshair/obj_crosshair.yy",},},
     {"id":{"name":"obj_game","path":"objects/obj_game/obj_game.yy",},},
     {"id":{"name":"obj_hand","path":"objects/obj_hand/obj_hand.yy",},},
