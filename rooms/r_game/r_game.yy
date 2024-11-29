@@ -15,7 +15,6 @@
     {"name":"inst_53BABBFF","path":"rooms/r_game/r_game.yy",},
     {"name":"inst_74FE991D","path":"rooms/r_game/r_game.yy",},
     {"name":"inst_4A6A5F20","path":"rooms/r_game/r_game.yy",},
-    {"name":"inst_146AF154","path":"rooms/r_game/r_game.yy",},
     {"name":"inst_5B81DFB6","path":"rooms/r_game/r_game.yy",},
     {"name":"inst_715626D7","path":"rooms/r_game/r_game.yy",},
     {"name":"inst_99B9513","path":"rooms/r_game/r_game.yy",},
@@ -91,7 +90,6 @@
         {"$GMRInstance":"v1","%Name":"inst_4A6A5F20","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_4A6A5F20","objectId":{"name":"obj_worker","path":"objects/obj_worker/obj_worker.yy",},"properties":[
             {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_mood","path":"objects/obj_mood/obj_mood.yy",},"propertyId":{"name":"index","path":"objects/obj_mood/obj_mood.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"8",},
           ],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":440.0,"y":224.0,},
-        {"$GMRInstance":"v1","%Name":"inst_146AF154","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_146AF154","objectId":{"name":"obj_game","path":"objects/obj_game/obj_game.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":2.0,"scaleY":2.0,"x":95.0,"y":925.0,},
         {"$GMRInstance":"v1","%Name":"inst_715626D7","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_715626D7","objectId":{"name":"obj_mood","path":"objects/obj_mood/obj_mood.yy",},"properties":[
             {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_mood","path":"objects/obj_mood/obj_mood.yy",},"propertyId":{"name":"index","path":"objects/obj_mood/obj_mood.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"0",},
           ],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":1446.0,"y":755.0,},
