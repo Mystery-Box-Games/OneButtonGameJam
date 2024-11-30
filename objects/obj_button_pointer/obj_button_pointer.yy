@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"s_button_pointer",
-    "path":"sprites/s_button_pointer/s_button_pointer.yy",
+    "name":"s_pencilPointer",
+    "path":"sprites/s_pencilPointer/s_pencilPointer.yy",
   },
   "spriteMaskId":null,
   "visible":true,

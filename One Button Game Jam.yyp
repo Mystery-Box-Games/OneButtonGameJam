@@ -64,6 +64,7 @@
     {"id":{"name":"s_mood","path":"sprites/s_mood/s_mood.yy",},},
     {"id":{"name":"s_officeBackground","path":"sprites/s_officeBackground/s_officeBackground.yy",},},
     {"id":{"name":"s_paperBall","path":"sprites/s_paperBall/s_paperBall.yy",},},
+    {"id":{"name":"s_pencilPointer","path":"sprites/s_pencilPointer/s_pencilPointer.yy",},},
     {"id":{"name":"s_targetFilled","path":"sprites/s_targetFilled/s_targetFilled.yy",},},
     {"id":{"name":"s_targetHollow","path":"sprites/s_targetHollow/s_targetHollow.yy",},},
     {"id":{"name":"s_worker","path":"sprites/s_worker/s_worker.yy",},},
