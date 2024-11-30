@@ -1,5 +1,7 @@
 /// @desc ?
 show_debug_message(image_index);
+show_debug_message(hour);
+
 
 if (hour == 0 && image_index > 2) image_index = 0;
 
@@ -17,7 +19,7 @@ else if (hour == 6 && image_index > 14) image_index = 12;
 
 else if (hour == 7 && image_index > 16) image_index = 14;
 
-else if (hour == 8 && image_index > 18) {
+else if (hour == 8) {
 	// end game
 	image_index = 16;
 	obj_game.game_win = true;

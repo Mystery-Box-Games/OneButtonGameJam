@@ -5,6 +5,8 @@ function button(button_index) {
 	if (button_index == 0) {
 		room_goto(rm_game);
 		obj_game.game_start = true;
+		obj_game.game_over = false;
+		obj_game.game_win = false;
 	}
 	
 	else if (button_index == 1) {
@@ -12,12 +14,6 @@ function button(button_index) {
 		
 		game_end();
 	}
-	
-	else if (button_index == 2) {
-		// quit	
-	}
-	
-	
 
 }
 
@@ -33,4 +29,9 @@ function pointer(button_index) {
 			instance_create_layer(button.x, button.y + (button.sprite_height / 2), "Instances", obj_button_pointer);
 		}
 	}
+}
+
+function change_room(new_room) {
+	//room_goto_next()
+	room_goto(new_room);
 }

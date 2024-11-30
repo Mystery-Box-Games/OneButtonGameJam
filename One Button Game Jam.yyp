@@ -46,8 +46,6 @@
     {"id":{"name":"obj_projectile","path":"objects/obj_projectile/obj_projectile.yy",},},
     {"id":{"name":"obj_worker","path":"objects/obj_worker/obj_worker.yy",},},
     {"id":{"name":"obj_workerHead","path":"objects/obj_workerHead/obj_workerHead.yy",},},
-    {"id":{"name":"rm_game_lose","path":"rooms/rm_game_lose/rm_game_lose.yy",},},
-    {"id":{"name":"rm_game_win","path":"rooms/rm_game_win/rm_game_win.yy",},},
     {"id":{"name":"rm_game","path":"rooms/rm_game/rm_game.yy",},},
     {"id":{"name":"rm_menu","path":"rooms/rm_menu/rm_menu.yy",},},
     {"id":{"name":"Script1","path":"scripts/Script1/Script1.yy",},},
@@ -56,6 +54,7 @@
     {"id":{"name":"s_button_pointer","path":"sprites/s_button_pointer/s_button_pointer.yy",},},
     {"id":{"name":"s_button","path":"sprites/s_button/s_button.yy",},},
     {"id":{"name":"s_clock","path":"sprites/s_clock/s_clock.yy",},},
+    {"id":{"name":"s_mainBackground","path":"sprites/s_mainBackground/s_mainBackground.yy",},},
     {"id":{"name":"s_mood","path":"sprites/s_mood/s_mood.yy",},},
     {"id":{"name":"s_officeBackground","path":"sprites/s_officeBackground/s_officeBackground.yy",},},
     {"id":{"name":"s_paperBall","path":"sprites/s_paperBall/s_paperBall.yy",},},
@@ -69,8 +68,6 @@
   "RoomOrderNodes":[
     {"roomId":{"name":"rm_menu","path":"rooms/rm_menu/rm_menu.yy",},},
     {"roomId":{"name":"rm_game","path":"rooms/rm_game/rm_game.yy",},},
-    {"roomId":{"name":"rm_game_lose","path":"rooms/rm_game_lose/rm_game_lose.yy",},},
-    {"roomId":{"name":"rm_game_win","path":"rooms/rm_game_win/rm_game_win.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
