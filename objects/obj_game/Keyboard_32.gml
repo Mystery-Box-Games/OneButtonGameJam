@@ -30,5 +30,5 @@ if ((!game_win || !game_over) && game_start) {
 if (!game_start && alarm[0] == -1) {
 	// create alarm and call button event
 	show_debug_message("alarm");
-	alarm[0] = game_get_speed(gamespeed_fps) * 3;
+	alarm[0] = game_get_speed(gamespeed_fps) * 2;
 }
