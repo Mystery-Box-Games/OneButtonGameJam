@@ -28,6 +28,8 @@ function pointer(button_index) {
 		if (instance_find(obj_button, i).index == button_index) {
 			// create pointer
 			var button = instance_find(obj_button, i);
+			
+			// create pointer
 			instance_create_layer(button.x, button.y + (button.sprite_height / 2), "Instances", obj_button_pointer);
 		}
 	}
