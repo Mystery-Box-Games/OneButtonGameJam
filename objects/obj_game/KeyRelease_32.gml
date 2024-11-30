@@ -26,4 +26,6 @@ else {
 	if (button_index > 1) {
 		button_index = 0;
 	}
+	
+	pointer(button_index);
 }

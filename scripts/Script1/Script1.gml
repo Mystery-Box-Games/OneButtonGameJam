@@ -20,3 +20,15 @@ function button(button_index) {
 	
 
 }
+
+function pointer(button_index) {
+	instance_destroy(obj_button_pointer);
+	
+	for (var i = 0; i < instance_number(obj_button); i++) {
+		if (instance_find(obj_button, i).index == button_index) {
+			// create pointer
+			var button = instance_find(obj_button, i);
+			instance_create_layer(button.x, button.y, "Instances", obj_button_pointer);
+		}
+	}
+}

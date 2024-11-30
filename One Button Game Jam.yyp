@@ -50,6 +50,7 @@
     {"id":{"name":"Script1","path":"scripts/Script1/Script1.yy",},},
     {"id":{"name":"snd_explosion","path":"sounds/snd_explosion/snd_explosion.yy",},},
     {"id":{"name":"s_button_pointer","path":"sprites/s_button_pointer/s_button_pointer.yy",},},
+    {"id":{"name":"s_button","path":"sprites/s_button/s_button.yy",},},
     {"id":{"name":"s_clock","path":"sprites/s_clock/s_clock.yy",},},
     {"id":{"name":"s_mood","path":"sprites/s_mood/s_mood.yy",},},
     {"id":{"name":"s_officeBackground","path":"sprites/s_officeBackground/s_officeBackground.yy",},},
