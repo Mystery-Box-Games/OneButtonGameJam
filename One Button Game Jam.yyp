@@ -36,7 +36,7 @@
   "resources":[
     {"id":{"name":"fnt_default","path":"fonts/fnt_default/fnt_default.yy",},},
     {"id":{"name":"obj_button_pointer","path":"objects/obj_button_pointer/obj_button_pointer.yy",},},
-    {"id":{"name":"obj_button_start","path":"objects/obj_button_start/obj_button_start.yy",},},
+    {"id":{"name":"obj_button","path":"objects/obj_button/obj_button.yy",},},
     {"id":{"name":"obj_clock","path":"objects/obj_clock/obj_clock.yy",},},
     {"id":{"name":"obj_crosshair","path":"objects/obj_crosshair/obj_crosshair.yy",},},
     {"id":{"name":"obj_game","path":"objects/obj_game/obj_game.yy",},},
@@ -47,6 +47,7 @@
     {"id":{"name":"obj_workerHead","path":"objects/obj_workerHead/obj_workerHead.yy",},},
     {"id":{"name":"r_game","path":"rooms/r_game/r_game.yy",},},
     {"id":{"name":"r_menu","path":"rooms/r_menu/r_menu.yy",},},
+    {"id":{"name":"Script1","path":"scripts/Script1/Script1.yy",},},
     {"id":{"name":"snd_explosion","path":"sounds/snd_explosion/snd_explosion.yy",},},
     {"id":{"name":"s_button_pointer","path":"sprites/s_button_pointer/s_button_pointer.yy",},},
     {"id":{"name":"s_clock","path":"sprites/s_clock/s_clock.yy",},},

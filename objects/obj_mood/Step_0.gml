@@ -2,6 +2,7 @@
 
 if (annoyance <= 0) {
 	image_index = 3;
+	obj_game.game_over = true;
 }
 else if (annoyance <= 25) {
 	image_index = 3;

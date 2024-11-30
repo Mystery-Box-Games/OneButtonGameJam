@@ -14,8 +14,7 @@ if (state == 1 && game_start) {
 }
 
 // game has not started	
-else {
-	// wait for space to be held for a specific time
-	
-	// select button
+else if (!game_start && alarm[0] == -1) {
+	// create alarm and call button event
+	alarm[0] = game_get_speed(gamespeed_fps) * 3;
 }

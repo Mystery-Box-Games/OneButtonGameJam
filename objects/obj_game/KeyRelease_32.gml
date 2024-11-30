@@ -18,6 +18,12 @@ if (state == 2 && game_start) {
 
 // game has not started
 else {
-	// move obj_button_pointer to next button
+	alarm[0] = -1;
 	
+	// move obj_button_pointer to next button
+	button_index++;
+	
+	if (button_index > 1) {
+		button_index = 0;
+	}
 }
