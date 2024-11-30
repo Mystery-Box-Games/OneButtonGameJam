@@ -3,7 +3,7 @@
 function button(button_index) {
 	
 	if (button_index == 0) {
-		room_goto_next();
+		room_goto(rm_game);
 		obj_game.game_start = true;
 	}
 	

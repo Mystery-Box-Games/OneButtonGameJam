@@ -17,4 +17,8 @@ else if (hour == 6 && image_index > 14) image_index = 12;
 
 else if (hour == 7 && image_index > 16) image_index = 14;
 
-else if (hour == 8 && image_index > 18) image_index = 16;
+else if (hour == 8 && image_index > 18) {
+	// end game
+	image_index = 16;
+	obj_game.game_win = true;
+}
