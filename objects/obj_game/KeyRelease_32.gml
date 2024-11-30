@@ -17,7 +17,7 @@ if (state == 2 && game_start) {
 }
 
 // game has not started
-else {
+else if (!game_start) {
 	alarm[0] = -1;
 	
 	// move obj_button_pointer to next button
@@ -28,4 +28,6 @@ else {
 	}
 	
 	pointer(button_index);
+	
+	audio_play_sound(snd_select, 1, false);
 }
