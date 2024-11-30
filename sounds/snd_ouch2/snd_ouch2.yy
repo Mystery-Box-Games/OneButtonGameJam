@@ -21,5 +21,5 @@
   "sampleRate":44100,
   "soundFile":"snd_ouch2.wav",
   "type":0,
-  "volume":0.4,
+  "volume":0.2,
 }
