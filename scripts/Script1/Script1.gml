@@ -26,7 +26,7 @@ function pointer(button_index) {
 			var button = instance_find(obj_button, i);
 			
 			// create pointer
-			instance_create_layer(button.x, button.y + (button.sprite_height / 2), "Instances", obj_button_pointer);
+			instance_create_layer(button.x - 10, button.y + (button.sprite_height / 2), "Instances", obj_button_pointer);
 		}
 	}
 }
