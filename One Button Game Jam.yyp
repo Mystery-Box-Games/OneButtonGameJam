@@ -35,6 +35,7 @@
   "name":"One Button Game Jam",
   "resources":[
     {"id":{"name":"fnt_default","path":"fonts/fnt_default/fnt_default.yy",},},
+    {"id":{"name":"fnt_small","path":"fonts/fnt_small/fnt_small.yy",},},
     {"id":{"name":"obj_button_pointer","path":"objects/obj_button_pointer/obj_button_pointer.yy",},},
     {"id":{"name":"obj_button","path":"objects/obj_button/obj_button.yy",},},
     {"id":{"name":"obj_clock","path":"objects/obj_clock/obj_clock.yy",},},
